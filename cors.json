@@ -1,0 +1,8 @@
+[
+    {
+      "path": "https://github.com/bzmay0149/apiBlog/blob/master/db.json",
+      "origin": "*",
+      "method": ["GET", "POST", "PUT", "DELETE"],
+      "max_age": 3600
+    }
+  ]
